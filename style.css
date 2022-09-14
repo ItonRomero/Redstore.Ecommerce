@@ -247,7 +247,7 @@ nav ul li a {
 .col-4 p {
   font-size: 14px;
 }
-.col-4 .rating svg{
+.col-4 .rating i{
   color: var(--clr-accent-400);
 }
 
@@ -287,7 +287,7 @@ nav ul li a {
 .col-3 .quote{
   font-size: 34px;
 }
-.col-3 svg{
+.col-3 i{
   color: var(--clr-accent-400);
 }
 .col-3 p{
@@ -437,7 +437,7 @@ select:focus {
 input:focus {
   outline: none;
 }
-.single-product svg {
+.single-product i {
   color: var(--clr-accent-500);
   margin-left: 10px;
 }
